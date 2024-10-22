@@ -1,4 +1,4 @@
-# MTX Project
+# MTX Voice Assistant with Facecam Recognition
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Code Quality](https://img.shields.io/badge/code%20quality-A%2B-green)
@@ -67,8 +67,11 @@ To set up the MTX project on your local machine, follow these steps:
 Create a `.env` file in the project root with the following variables:
 
 ```plaintext
-LIVEKIT_API_KEY=your_livekit_api_key
-DEEPGRAM_API_KEY=your_deepgram_api_key
+LIVEKIT_URL=...
+LIVEKIT_API_KEY=...
+LIVEKIT_API_SECRET=...
+DEEPGRAM_API_KEY=...
+OPENAI_API_KEY=...
 ```
 
 ## Usage
