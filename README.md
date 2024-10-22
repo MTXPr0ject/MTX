@@ -113,7 +113,8 @@ We welcome contributions to the MTX Project! Please fork the repository and subm
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MTXPr0ject/MTX/blob/main/LICENSE) file for details.
+
 
 ## Contact
 
