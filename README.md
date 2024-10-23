@@ -1,16 +1,16 @@
-# MTX Voice Assistant with Facecam Recognition
+# 🟢 **MTX Voice Assistant with Facecam Recognition** 🟢
+
+![MTX Logo](https://raw.githubusercontent.com/MTXPr0ject/MTX/refs/heads/main/logo.webp)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Code Quality](https://img.shields.io/badge/code%20quality-A%2B-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-![MTX Logo](https://via.placeholder.com/150)  <!-- Replace with your actual logo link -->
+## 📌 **Overview**
 
-## Overview
+The **MTX Project** is a versatile application designed to integrate various functionalities including video processing, speech recognition, and chat management using the LiveKit platform. It provides a robust framework for building **interactive voice and vision-enabled assistants**.
 
-The **MTX Project** is a versatile application designed to integrate various functionalities including video processing, speech recognition, and chat management using the LiveKit platform. It provides a robust framework for building interactive voice and vision-enabled assistants.
-
-## Table of Contents
+## 📜 **Table of Contents**
 
 - [Features](#features)
 - [Installation](#installation)
@@ -22,13 +22,13 @@ The **MTX Project** is a versatile application designed to integrate various fun
 - [Environment Variables](#environment-variables)
 - [File Structure](#file-structure)
 
-## Features
+## ✨ **Features**
 
-- **Voice and Vision Capabilities**: Responds to user commands using voice and visual data.
-- **Seamless Integration**: Works with LiveKit for real-time communication.
-- **Customizable Functions**: Easily add or modify assistant functions.
+- 🔊 **Voice and Vision Capabilities**: Responds to user commands using voice and visual data.
+- 🌐 **Seamless Integration**: Works with LiveKit for real-time communication.
+- 🛠️ **Customizable Functions**: Easily add or modify assistant functions.
 
-## Installation
+## ⚙️ **Installation**
 
 To set up the MTX project on your local machine, follow these steps:
 
@@ -62,7 +62,7 @@ To set up the MTX project on your local machine, follow these steps:
 
 5. **Set up environment variables**: Create a `.env` file in the project root with your LiveKit and Deepgram API keys.
 
-## Environment Variables
+## 🔑 Environment Variables
 
 Create a `.env` file in the project root with the following variables:
 
@@ -74,7 +74,7 @@ DEEPGRAM_API_KEY=...
 OPENAI_API_KEY=...
 ```
 
-## Usage
+## 🚀 Usage
 
 To start the assistant, run:
 
@@ -88,7 +88,7 @@ For downloading files, use:
 python mtx.py download-files
 ```
 
-### Usage Examples
+### 💡 Usage Examples
 
 - **Start the Assistant**:
   ```bash
@@ -105,27 +105,27 @@ python mtx.py download-files
   python mtx.py update
   ```
 
-## Requirements
+## 📝 Requirements
 
 - Python 3.11 or higher
 - Required packages are listed in `requirements.txt`.
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions to the MTX Project! Please fork the repository and submit a pull request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/MTXPr0ject/MTX/blob/main/LICENSE) file for details.
 
 
-## Contact
+## 📧 Contact
 
 Author: MrTomXxX  
 Facebook: [MrTomXxX](https://www.facebook.com/MrTomXxX)  
 YouTube: [MTX Project](https://www.youtube.com/@mtxproject)
 
-## File Structure
+## 🗂️ File Structure
 
 ```
 ├── mtx.py                # Main application file
@@ -133,4 +133,3 @@ YouTube: [MTX Project](https://www.youtube.com/@mtxproject)
 ├── .env                  # Environment variables
 └── README.md             # Project documentation
 ```
-
